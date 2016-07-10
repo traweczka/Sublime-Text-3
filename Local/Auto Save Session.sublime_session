@@ -199,7 +199,7 @@
 					"file": "/C/Users/trawe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 113,
+						"buffer_size": 111,
 						"line_ending": "Unix"
 					}
 				},
@@ -393,15 +393,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 113,
+								"buffer_size": 111,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										112,
-										112
+										111,
+										111
 									]
 								],
 								"settings":
